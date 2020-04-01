@@ -1,0 +1,10 @@
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\bin\Debug\TengoQueDecirteAlgo.exe.config
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\bin\Debug\TengoQueDecirteAlgo.exe
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\bin\Debug\TengoQueDecirteAlgo.pdb
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.csprojAssemblyReference.cache
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.Form1.resources
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.Properties.Resources.resources
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.csproj.GenerateResource.cache
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.exe
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.pdb
+C:\Users\Sebastian Manassero\source\repos\TengoQueDecirteAlgo\TengoQueDecirteAlgo\obj\Debug\TengoQueDecirteAlgo.Form2.resources
